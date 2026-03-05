@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Suman
+# 👋 Namaste, this is Suman
 
 ### 🚀 Flutter Developer | IoT Builder | CSE Undergrad
 
